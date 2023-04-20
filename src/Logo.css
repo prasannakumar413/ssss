@@ -1,0 +1,50 @@
+.hain {
+    height: 100%;
+    background-image: url("https://media.tenor.com/9vRAkntogEMAAAAd/background.gif");
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    padding-top: 50px;
+    padding-left: 45px;
+    padding-right: 12px;
+    display: flex;
+  }
+
+  .logo {
+    background: url("C:\Users\almit\OneDrive\Desktop\logo.png");
+    width: 330px;
+    height: 340px;
+    margin-top: -120px;
+    margin-left: 450px;
+    background-repeat: no-repeat;
+    border-radius:3000px;
+  }
+
+  .note1{
+    color: #000;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 3px solid #000;
+    text-decoration: none;
+    border-radius: 50px;
+    width: 160px;
+    height: 30px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    font-family: Times;
+    font-size: 25px;
+    margin-top: 350px;
+    margin-left: -244px;
+  }
+
+  .cw{
+    background: url("");
+    width: 50px;
+    height: 50px;
+    margin-left: -240px;
+    margin-top: -600px;
+    background-repeat: no-repeat;
+  }
+
+
+

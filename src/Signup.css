@@ -1,0 +1,210 @@
+.mac-book-air-51 {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: stretch;
+    font-weight: 400;
+    line-height: 26px;
+    display: flex;
+  }
+  
+  .image-70 {
+    text-align: center;
+    height: 100%;
+    background-image: url("https://d19d5sz0wkl0lu.cloudfront.net/dims4/default/7f7641d/2147483647/resize/800x%3E/quality/90/?url=https%3A%2F%2Fatd-brightspot.s3.amazonaws.com%2Fpreformfw.png");
+    background-position: center;
+    background-size: cover;
+    flex-direction: row;
+    flex-basis: 87%;
+    justify-content: flex-start;
+    align-items: center;
+    margin-right: -751px;
+    padding-top: 19px;
+    padding-left: 80px;
+    font-family: Josefin Sans;
+    font-size: 1.563rem;
+    display: flex;
+  }
+  
+  .tangle-122{
+    height: 20%;
+    background-color: #ffffffb3;
+    border: 3px solid black;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 40%;
+    justify-content: center;
+    align-items: center;
+    margin-top: -4px;
+    margin-left: 100px;
+    padding-top: 5px;
+    padding-right: 4px;
+    display: flex;
+  }
+  
+  .we-help-you-to-manag {
+    margin-top: 4px;
+    font-family: josefin sans;
+    font-size: 25px;
+    padding: 5px;
+  }
+  
+  .pichu{
+    height: 100%;
+    z-index: 1;
+    background-color: #fff;
+    border: 0 solid #000;
+    flex-direction: column;
+    flex-basis:30%;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 34px;
+    padding-left: 80px;
+    padding-right: 13px;
+    display: flex;
+    margin-top: -10px;
+  }
+  
+  .sign {
+    margin-top: -20px;
+    font-family: Times;
+    font-size: 60px;
+    line-height: 40px;
+    font-family: Times;
+    text-align: center;
+  }
+  
+  .start-managing-confi {
+    font-family: Times;
+    font-size: 20px;
+    margin-top: -10px;
+  }
+  
+  .e-mail-id {
+    align-self: flex-start;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 25px;
+    line-height: 10px;
+    font-family: Times;
+  }
+  
+  .rectangle-93 {
+    color: #000;
+    width: 90%;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 2px solid #000;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-top: -5px;
+    margin-left: -20px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-decoration: none;
+    display: flex;
+  }
+  
+  .password {
+    align-self: flex-start;
+    margin-top: 3px;
+    margin-left: 5px;
+    font-size: 25px;
+    line-height: 10px;
+    font-family: Times;
+  }
+  
+  .pop{
+    color: #000;
+    width: 90%;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 2px solid #000;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 5%;
+    justify-content: flex-start;
+    align-items: stretch;
+    margin-top: -5px;
+    margin-left: -20px;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 26px;
+    text-decoration: none;
+    display: flex;
+  }
+  
+  .forget-password {
+    margin-top: -30px;
+    font-family: Times;
+    font-size: 20px;
+  }
+  .a{
+    font-family: Times;
+    margin-top: -30px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .rectangle-94 {
+    color: #000;
+    width: 25%;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 3px solid #000;
+    border-radius: 25px;
+    flex-direction: row;
+    flex-basis: 7%;
+    justify-content: center;
+    align-items: center;
+    margin-top: -30px;
+    font-size:20px;
+    font-weight: 400;
+    line-height: 39px;
+    display: flex;
+    font-family: Times;
+    text-decoration: none;
+  }
+  .dhivu{
+    margin-top: -20px;
+    font-family: Times;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000;
+  }
+ 
+  .g{
+    color: #4885ed;
+    text-decoration: none;
+
+  }
+  .o{
+    color: #db3236;
+    text-decoration: none;
+
+  }
+  .ol{
+    color: #f4c20d;
+    text-decoration: none;
+
+  }
+  .gl{
+    color: #4885ed;
+    text-decoration: none;
+
+  }
+  .l{
+    color: #3cba54;
+    text-decoration: none;
+
+  }
+  .e{
+    color: #db3236;
+    text-decoration: none;
+
+  }

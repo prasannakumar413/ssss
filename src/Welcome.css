@@ -1,0 +1,112 @@
+.mac-book-air-43 {
+    color: #000;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    padding-top: 1px;
+    font-weight: 400;
+    line-height: 65px;
+    display: flex;
+  }
+  
+  .image-83 {
+    height: 100%;
+    background-image: url("https://d2poqm5pskresc.cloudfront.net/wp-content/uploads/2022/05/1920x1080-20.jpg");
+    background-position: center;
+    background-size: cover;
+    flex-direction: row;
+    flex-basis: 100%;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 6px;
+    padding-left: 1px;
+    display: flex;
+  }
+  
+  .rectangle-3 {
+    height: 50%;
+    background-color: #ffffffc9;
+    border: 2px solid #000;
+    border-radius: 25px;
+    flex-direction: column;
+    flex-basis: 30%;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 1px;
+    margin-bottom: 2px;
+    margin-left: 1px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    display: flex;
+  }
+  
+  .welcome {
+    margin-top: 11px;
+    font-family: Times;
+    font-size: 70px;
+  }
+  
+  .to-keep-connected-wi {
+    text-align: center;
+    font-size: 25px;
+    line-height: 35px;
+    font-family: Times;
+  }
+  
+  .rectangle-4 {
+    width: 78%;
+    height: 15%;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 2px solid #000;
+    border-radius: 50px;
+    flex-direction: row;
+    flex-basis: 10%;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    display: flex;  
+  }
+  
+  .sign-in {
+    margin: 20px;
+    font-family: Times;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+  }
+  
+  .rectangle-5 {
+    width: 78%;
+    height: 15%;
+    background: linear-gradient(#ef32d9bf 0%, #89fffdbf 100%);
+    border: 2px solid #000;
+    border-radius: 50px;
+    flex-direction: row;
+    flex-basis: 10%;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    display: flex;
+    margin-left: -1px; 
+  }
+  
+  .sign-up {
+    margin: 20px;
+    font-family: Times;
+    font-size: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: normal;
+  }
+
+  .dkd{
+    font-size: 20px;
+    margin-top: -10px;
+    margin-left: 10px;
+    color: rgb(0, 4, 255);
+    font-family: Times;
+  }
